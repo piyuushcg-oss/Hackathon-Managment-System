@@ -1,0 +1,13 @@
+#background{
+    border: 1px solid black;
+    height: 700px;
+    width: 1100px;
+    background-image:url(../photos/backgron-01.png);
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+    padding-left: 40px;
+}
+#H{
+    display: inline-block;
+}
